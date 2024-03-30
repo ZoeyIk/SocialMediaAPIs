@@ -1,5 +1,5 @@
 # SocialMediaAPIs
-A practice ASP.NET core project for Web REStful APIs.
+An ASP.NET core project for Web REStful APIs.
 The connection string needs to change to own database login information.
 
 Tables setup and stored procedure required are in the SQL_Query.sql
